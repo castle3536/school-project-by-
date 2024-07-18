@@ -1,1 +1,5 @@
-h1,p{color: blue;}
+p{display: inline;}/*블록을 인라인으로*/
+p{border-width:2px ;
+border-color:green ;
+border-style:solid ;}/* border를 통해 넓이,색,윤곽스타일등을 한번에 정할수 있음*/
+span{border: 2px,red,solid;}/*윗 설명의 예시*/
